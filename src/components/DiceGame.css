@@ -1,0 +1,101 @@
+.container  {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.pointText {
+    width: 100px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: "white";
+    padding: 10px;
+}
+
+.diceContainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.dice {
+    width: 100%;
+    height: 20px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.diceText {
+    font-size: 24px;
+    padding: 10px;
+    color: #000;
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.buttonText {
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    outline: none;
+    cursor: pointer;
+}
+
+.buttonContainer {
+    flex-direction: column;
+    margin: 20px;
+}
+
+.blastBoard {
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.diceBoard {
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.quitGame {
+    background-color: gray;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.quitText {
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.countBoard {
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.diceCount {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
