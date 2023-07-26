@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zombiedice/static/css/main.acf50c55.css",
+    "main.js": "/zombiedice/static/js/main.5fcc6ef2.js",
+    "index.html": "/zombiedice/index.html",
+    "main.acf50c55.css.map": "/zombiedice/static/css/main.acf50c55.css.map",
+    "main.5fcc6ef2.js.map": "/zombiedice/static/js/main.5fcc6ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf50c55.css",
+    "static/js/main.5fcc6ef2.js"
+  ]
+}
